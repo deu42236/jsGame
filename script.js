@@ -1,9 +1,3 @@
-// Celá vesnice je vpiči, protože Teetova DoTka otrávila celou vesnici, soraka jde najít Teeta a zajebat ho, a dunutit ho, aby vydal lokace všech hoven, co vysázel kolem vesnice
-//pokud se rozhodne jit healovat vesnicu, lidi ji nebudou věřit a jediné řešení bude hodit hvězdu na vesnici a zničit ji, tímto se spustí zemetřesení a Teetova skrýš se zřítí a Teeto utíká, po chvíli útěku ho zajebe Rengar
-//end #1 teeto je minus a vesnice je čistá
-//end #2 Soraka vyšlápla houbu
-//end #3 Star wars
-
 alert("V pradávných časech, kdy byl čas sám ještě mladý, shlíželi nebeští bohové na smrtelníky Runeterry se vzrůstajícími obavami. Tito tvorové se chovali divoce, nepředvídatelně a nebezpečně se odchylovali od velkolepých osudů, které jim bohové předepsali. Hvězdné mapy se stávaly nesrozumitelnými a chaos hrozil pohltit svět.")
 alert("V této době se narodila Soraka, bytost, která byla zrozena z hvězd a zrozena z milosti. Soraka byla bytostí, která se narodila s neuvěřitelným darováním léčení a uzdravování. Její přítomnost sama o sobě byla zárukou míru a harmonie, a kdekoliv se objevila, zanechala za sebou stopu světla a lásky.")
 alert("Soraka se vydala na cestu, aby pomohla těm, kteří trpěli, a aby uzdravila zraněné. Její léčivé schopnosti byly tak silné, že byly schopny uzdravit i ty nejvážnější zranění a nemoci. Lidé, kteří se setkali s Sorakou, byli okouzleni její krásou a dobrotou, a brzy se stala legendou, která se šířila po celém světě.")
@@ -97,3 +91,8 @@ if (decision == 2) {
         }
     }
 }
+
+//STORY HERE
+//   hGuB3pWbjNTbHmYNMFLwlsLa6A0XHGzajO8KqoaDQGzk/ROKeNhkjZyRRn9OM8QmCpw8lzhZr8qfY82eOt3uOmlWhfCIo/RSi7oM9Pqnz8IBKmroyr4IkK0TIQQ29c1BhX/FT67jwP9CUPucDn/Kv9aRa56Pp4fT/EAf57Yz3/I8BppxCHBPKF/Du+6iC04TjXO8K7QBlAGi5T49bQpIZosiwDjfARnnFYyDAoAeQsEjM/y9nYPGl8YCLGfHbs9GAE3ThdafkryY/mSTI9yZryJH0/K5AvkrOmC3U4tH5Dkh6xhKlZ20wbwtzfaLy677IfigkDoctmsWFYFLCgk70eTXetq7fNxtLTu5a3zmX0r8pSgOJ2UtvdDXuYg37/MRxV1jxFjm0DyqpIf5KWSoHP286X+oQV7HMiqCxS2YpxGccHhm/uxaWXyD5I1X7gozQY4io9R8cCdujGWqnzWO8vBZ1zewUwSId+fIMW8lejtVS+B8ZMTdz7c5rkD5JfoYDyciW70jp3L+tYCaPH2DspRfwTf5hdf+k2lmSlj7sPoPGXJP+yoFjrtaA2b/t3/YASpO5LD240cVSqbOkkrsNsIz1GmWMEaOrSYtELi5/IxkpvXPjLEdLtb4jSzHiCJBbOKIqMCy36Tb6Rzd9VvpsCqBFU9a0j6YEUWmdUOmYa96dAg82fC4puy2xe6Mcncx
+//   https://www.devglan.com/online-tools/text-encryption-decryption
+//   secret key: jb
